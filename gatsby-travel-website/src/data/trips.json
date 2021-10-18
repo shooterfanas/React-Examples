@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/travel1.jpg",
+    "alt": "Eiffel Tower",
+    "name": "Eiffel Tower",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel2.jpg",
+    "alt": "Machu Picchu",
+    "name": "Machu Picchu",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel3.jpg",
+    "alt": "Pyramid",
+    "name": "Pyramid",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel4.jpg",
+    "alt": "Cappadocia",
+    "name": "Cappadocia",
+    "button": "View Destination"
+  }
+]
